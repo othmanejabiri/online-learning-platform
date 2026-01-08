@@ -65,6 +65,3 @@ Ordre recommandé de démarrage :
 2. Auth Service  
 3. Microservices métier  
 4. API Gateway  
-
-
-## 📁 Structure du projet
